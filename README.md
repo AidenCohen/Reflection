@@ -1,8 +1,9 @@
 # Reflection
-## subtext
+## 6/29/17
 Contents
 
 ---
+
 # Reflection
-## subtext
+## 6/30/17
 Contents
