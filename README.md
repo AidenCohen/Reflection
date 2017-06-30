@@ -7,7 +7,7 @@ Contents
 # Reflection
 ## 6/30/17
 Contents
-
+Today, I learned some more html, and refreshed my memory on how it worked. We created a basic website, and customized it to our needs. We also looked at using our git domain to act as a server for our website. Today was fun, inquisitive and engaging, things that I really enjoy about this class.
 ---
 
 # Reflection
