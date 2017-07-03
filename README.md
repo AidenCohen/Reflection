@@ -1,7 +1,7 @@
 # Reflection
 ## 7/1/17
 Contents
-
+Today I edited my website, added alot of Css and js, and experimented with Animations, I spent most of class trying to use js or css to do so, but eventually, I did not make it anywhere, and am trying very hard to put it in somewhere. We also experimented with bootstrap, and made our website look 10x nicer with a template. Right now i am just trying to add more content to my website.
 ---
 
 # Reflection
