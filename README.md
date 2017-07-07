@@ -1,4 +1,12 @@
 # Reflection
+## 7/6/17
+Contents
+Today, I learned what a list is in python. We talked about how they were a lot like arraylists in java, where you can add and subtract things from a list kind of like an arraylist. I also learned a lot about for in loops, and how they can apply to scrolling text. A for in loop prints everything within a range. I hope that we continue learning at this pace, and I hope that I will succed in achieveing horizontal scrolling text.
+# Reflection
+## 7/6/17
+Contents
+Today, I learned a little bit of python. We learned about the input and print functions, and did several challenges along the way. We learned about our upcoming project and completed the pokemon challenge, now to complete the rest of it.
+# Reflection
 ## 7/5/17
 Contents
 Today I edited my website again, this time focusing less on the gold plating, and more on the content. I learned some new things in css when trying to stream line my animation, and more about transitions when trying to create a new one. I also added some words, and pictures onto my home and about pages, and go the nav bar to work. I mainly improved and added more stable structure. In the future, I hope to add more content, and hope to have fun while adding more to my website.
