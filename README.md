@@ -1,6 +1,10 @@
 # Reflection
 ## 7/6/17
 Contents
+Today we learned about dictionaries and 2d and 3d lists. A dictionary is a randomly accessed index with no order, while a list is organized. I also went and completed the first 2 challenges of horizontal scrolling and pictures in pokemon. Now I will go on to the 3rd challenge making it scroll 2x faster when the space bar is pressed.
+# Reflection
+## 7/6/17
+Contents
 Today, I learned what a list is in python. We talked about how they were a lot like arraylists in java, where you can add and subtract things from a list kind of like an arraylist. I also learned a lot about for in loops, and how they can apply to scrolling text. A for in loop prints everything within a range. I hope that we continue learning at this pace, and I hope that I will succed in achieveing horizontal scrolling text.
 # Reflection
 ## 7/6/17
