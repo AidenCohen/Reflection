@@ -1,4 +1,7 @@
 # Reflection
+## 7/12/17
+Today I imported my pokemon project to pygame. I added a display, a text box, and am working on wrapping text in the text box. I am very close to completeing the pokemon project all the way, and I am ready to take the final steps towards finishing the pokemon project.
+# Reflection
 ## 7/11/17
 Today we learned about conditional statements, I already knew most of the material, but it is always helpful to review. Today I also completed all 3 steps of the pokemon project, now however, I have to go back and add all of the elements of my project into pygame.
 # Reflection
