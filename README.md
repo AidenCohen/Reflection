@@ -1,6 +1,6 @@
 # Reflection
 ## 7/18/17
-Today, I did worked on coin sums, it was like wandering in the forest, and I just chipped the surface. However, I believe if I sleep on it, it will work and  I can solve the problem.
+Today, I did worked on coin sums, it was like wandering in the forest, and I just chipped the surface. However, I believe if I sleep on it, it will work and  I can solve the problem. 
 - - -
 # Reflection
 ## 7/14/17
