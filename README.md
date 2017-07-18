@@ -1,16 +1,23 @@
 # Reflection
+## 7/18/17
+Today, I did worked on coin sums, it was like wandering in the forest, and I just chipped the surface. However, I believe if I sleep on it, it will work and  I can solve the problem.
+- - -
+# Reflection
 ## 7/14/17
 Today we did a dot project. I got it done after 3 iterations of code, so i'm happy. I solved it by using loops and lists. However, i'm sad that I also did not get pizza due to the fact that my classmates didn't solve it. However, I hope that more challenges will come my way. I was also introduced to a palindrome project that I hope to finish later.
-
+- - -
 # Reflection
 ## 7/13/17
 Today I touched up on the pokemon project. I added music, allowed the user to see the text they were typing, finished text wrapping, and finally completed that pokemon project. Now just to change the font...
+- - -
 # Reflection
 ## 7/12/17
 Today I imported my pokemon project to pygame. I added a display, a text box, and am working on wrapping text in the text box. I am very close to completeing the pokemon project all the way, and I am ready to take the final steps towards finishing the pokemon project.
+- - -
 # Reflection
 ## 7/11/17
 Today we learned about conditional statements, I already knew most of the material, but it is always helpful to review. Today I also completed all 3 steps of the pokemon project, now however, I have to go back and add all of the elements of my project into pygame.
+- - -
 # Reflection
 ## 7/10/17
 Contents
