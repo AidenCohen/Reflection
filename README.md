@@ -1,5 +1,8 @@
 # Reflection
-## 7/18/17
+## 7/20/17
+Today I debugged a program, this was the wifi guesssing program that did not work. After i got a jist of what it was doing, i tried turning networks on and off, and tried to decorrupt the network by removing it from my system then readding it, and trying to identify problems in the code. Eventually it turned out that my wifi card was too slow and needed at least 2.5s to operate.
+# Reflection
+## 7/19/17
 Today, I got a new project, to make a doorbell out of scannning a QR code. I didn't do too much with it, but got started with writing an app in python about it. It seems like a cool project that I can handle, and I hope I can finish it before I leave. I also am getting started with the network project. It seems cool because I haven't done anything like it before, and I would like to experience hacking into it.
 - - -
 # Reflection
