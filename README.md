@@ -1,4 +1,7 @@
 # Reflection
+## 7/25/17
+Today I did all of the Intro, and figured out a story for my game. It is about a block knight and his quest to become an offical knight in the kingdom. Now I have to work on the menu, and actual components of the game. I am about to do NPCs and Player movement, and inventor and enemy placement next. I hope i get a lot of work done tonight.
+# Reflection
 ## 7/20/17
 Today I debugged a program, this was the wifi guesssing program that did not work. After i got a jist of what it was doing, i tried turning networks on and off, and tried to decorrupt the network by removing it from my system then readding it, and trying to identify problems in the code. Eventually it turned out that my wifi card was too slow and needed at least 2.5s to operate.
 # Reflection
