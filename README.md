@@ -1,4 +1,7 @@
 # Reflection
+## 7/27/17
+Today, I did npcs, and finished the jumping bug. I made the npc talk to the player, and i'm currently making the enemy, all that is a work in progress. tomorrow, I am going to fix up advanced enemy AI and an inventory which you can store weapons in. I also hope to make the entire game scroll, so that I can add more things to it. I hope to finish my game, and maybe even continue it in the future.
+# Reflection
 ## 7/25/17
 Today I did all of the Intro, and figured out a story for my game. It is about a block knight and his quest to become an offical knight in the kingdom. Now I have to work on the menu, and actual components of the game. I am about to do NPCs and Player movement, and inventor and enemy placement next. I hope i get a lot of work done tonight.
 # Reflection
