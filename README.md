@@ -1,4 +1,8 @@
 # Reflection
+## 7/28/17
+I learned a lot about code throughout the summer, I got better through practice and really honed my coding skills. Before taking this clas, I felt that I was an okay coder, and that I needed to do a lot of work to really master it. However, through this class I learned that I was a good coder, and the only thing that really matters is having the right mindset towards coding. This class helped me practice my coding to a point where I was vastly improving.
+- - -
+# Reflection
 ## 7/27/17
 Today, I did npcs, and finished the jumping bug. I made the npc talk to the player, and i'm currently making the enemy, all that is a work in progress. tomorrow, I am going to fix up advanced enemy AI and an inventory which you can store weapons in. I also hope to make the entire game scroll, so that I can add more things to it. I hope to finish my game, and maybe even continue it in the future.
 # Reflection
